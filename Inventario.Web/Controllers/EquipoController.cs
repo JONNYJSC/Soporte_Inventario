@@ -8,5 +8,15 @@ namespace Inventario.Web.Controllers
         {
             return View();
         }
+
+        public IActionResult HistorialEquipo()
+        {
+            return View();
+        }
+
+        public IActionResult ReporteEquipo()
+        {
+            return View();
+        }
     }
 }
